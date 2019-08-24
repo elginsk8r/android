@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="lineage"
+           fetch="https://github.com/LineageOS/"
+           review="https://review.lineageos.org/"
+           revision="lineage-22.0" />
+
+  <project path="device/lineage/atv" name="android_device_lineage_atv" remote="lineage" />
+
+</manifest>
