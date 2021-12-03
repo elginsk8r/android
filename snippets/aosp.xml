@@ -30,6 +30,7 @@
   </project>
 
   <project path="device/generic/common" name="android_device_generic_common" groups="pdk" remote="evervolv" />
+  <project path="device/google/atv" name="android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" remote="evervolv" />
 
   <project path="external/dtc" name="android_external_dtc" groups="pdk" remote="evervolv" />
   <project path="external/fastrpc" name="android_external_fastrpc" groups="pdk" remote="evervolv" />
