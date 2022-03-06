@@ -61,6 +61,8 @@
   <remove-project name="device/linaro/poplar" />
   <remove-project name="device/linaro/poplar-kernel" />
 
+  <remove-project name="kernel/configs" />
+
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
 
