@@ -2,17 +2,17 @@
 <manifest>
 
   <remote  name="evervolv"
-           fetch="../Evervolv/"
+           fetch="https://github.com/Evervolv/"
            review="http://review.evervolv.com/"
            revision="r-11.0" />
 
   <remote  name="lineage"
-           fetch="../LineageOS/"
+           fetch="https://github.com/LineageOS/"
            review="https://review.lineageos.org/"
            revision="lineage-18.1" />
 
   <remote  name="github"
-           fetch=".."/>
+           fetch="https://github.com" />
 
   <project path="art" name="android_art" groups="pdk" remote="evervolv" />
   <project path="bionic" name="android_bionic" groups="pdk" remote="evervolv" />
