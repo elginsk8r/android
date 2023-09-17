@@ -3,7 +3,7 @@
 
   <remote  name="caf"
            fetch="https://git.codelinaro.org/clo/la"
-           revision="refs/tags/LA.QSSI.11.0.r1-11400-qssi.0" />
+           revision="refs/tags/LA.QSSI.11.0.r1-18100-qssi.0" />
 
   <remote  name="caf-legacy"
            fetch="https://git.codelinaro.org/clo/la"
